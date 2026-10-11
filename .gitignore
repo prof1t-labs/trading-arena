@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+trading_arena.db
+.vercel/
+.DS_Store
