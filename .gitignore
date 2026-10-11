@@ -5,3 +5,13 @@ __pycache__/
 trading_arena.db
 .vercel/
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
